@@ -14,7 +14,7 @@ The car's two wheels are independently controlled using a motor driver connected
 - Remote control functionality via a wireless connection.
 - Open-source design, allowing for community contributions and improvements.
 
-## Prerequisites
+## list of items you need
 
 Before getting started with this project, ensure you have the following:
 
